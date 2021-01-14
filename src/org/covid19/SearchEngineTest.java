@@ -10,7 +10,7 @@ import java.util.Scanner;
  * 
  * @author Daniel Lee
  * 
- *         Purpose: This is a test class for this project.
+ *         Purpose: This is a test class for this Covid19 project.
  * 
  *         Sources:
  * 
