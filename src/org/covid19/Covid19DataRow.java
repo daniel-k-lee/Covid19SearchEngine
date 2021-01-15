@@ -8,7 +8,6 @@ import java.util.StringTokenizer;
 
 /**
  * Main Contributors:
- * 
  * @author Daniel Lee
  * 
  *         Purpose: This class contains detailed COVID-19 data fields. It can be
